@@ -1,0 +1,17 @@
+init: neues Repository erstellen
+config: einstellung
+clone: Kopieren von Repositories
+add: hinzufügen von den Dateien 
+rm: löschen von Dateien
+commit: registrieren und protokollieren der Daten
+remote: verwalten der Repositorys und deren Zweige
+push: Veränderung in Github hochladen
+pull: Übernimmt Änderungen von einem Remote-Repository in den aktuellen Zweig
+status:zeigt den Status des aktuellen Zweigs
+diff:zeigt die Veränderungen die in dem Zweig vorgenommen wurden
+reset: zurücksetzen von Änderungen
+log: zeigt die Commit-Protokolle an
+branch: anlegen von einem neuen Zweig
+checkout: wechseln in einen anderen Zweig
+merge: Verbinden von Zweigen
+
